@@ -18,7 +18,7 @@ def write(in_text):
 		time.sleep(0.1)
 		sys.stdout.write(char)
 		sys.stdout.flush()
-write(f"\n{gr}[+]{re} Thanks for using my tool...")
+write(f"\n{gr}[+]{re} shukriya mera tools use karne ke liye ...")
 print("\n------------------------")
 print("\nsupport us to make more tools")
 print("\n------------------------")

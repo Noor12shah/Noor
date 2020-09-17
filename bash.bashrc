@@ -3,17 +3,19 @@ command_not_found_handle() {
 }
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 clear
-mpv /$HOME/jarvis-welcome/terminal.mp3
+mpv /$HOME/Noor/terminal.mp3
 clear
-echo -e "Created By \e[5mAmshenShanu"
+echo -e "Created By \e[5mNoor"
 echo "----------------------------" | lolcat
 echo "
-o      o        8
-8      8        8
-8      8 .oPYo. 8 .oPYo. .oPYo. ooYoYo. .oPYo.
-8  db  8 8oooo8 8 8      8    8 8' 8  8 8oooo8
- b.PY.d' 8.     8 8    . 8    8 8  8  8 8.
-  8  8'   Yooo  8  YooP   YooP  8  8  8  Yooo " | lolcat
+ #     #                      
+ ##    #  ####   ####  #####  
+ # #   # #    # #    # #    # 
+ #  #  # #    # #    # #    # 
+ #   # # #    # #    # #####  
+ #    ## #    # #    # #   #  
+ #     #  ####   ####  #    # 
+                               " | lolcat
 echo ""
   
 date | lolcat

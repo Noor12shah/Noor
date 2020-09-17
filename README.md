@@ -1,5 +1,8 @@
-# Noor
-#### Beautify your Termux App With a warm welcome
+# Noor🥀🥀
+
+<p align="center">
+<img src="https://telegra.ph/file/7e374f8ce42fdb1ec8df2.jpg" alt="FALTU USERBOT">
+🌹🥀Beautify your Termux App With a warm welcome🌹🥀
 
 ## [+] Installation & Usage
 ```

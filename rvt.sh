@@ -3,6 +3,6 @@ cd
 cd ..
 cd usr/etc
 rm bash.bashrc
-cd $HOME/jarvis-welcome/Revert
+cd $HOME/Noor/Revert
 mv bash.bashrc $PREFIC/etc
-python $HOME/jarvis-welcome/Revert/Thanks.py
+python $HOME/Noor/Revert/Thanks.py

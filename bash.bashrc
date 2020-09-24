@@ -7,8 +7,7 @@ mpv /$HOME/Noor/terminal.mp3
 clear
 echo -e "Created By \e[5mNoor"
 echo "----------------------------" | lolcat
-echo "
- #     #                      
+echo "                          
 ███    ██  ██████   ██████  ██████  
 ████   ██ ██    ██ ██    ██ ██   ██ 
 ██ ██  ██ ██    ██ ██    ██ ██████  
